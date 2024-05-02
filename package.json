@@ -1,6 +1,6 @@
 {
   "name": "upload-folder-s3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "upload a folder to s3",
   "main": "index.js",
   "scripts": {
