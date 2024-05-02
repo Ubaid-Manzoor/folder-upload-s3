@@ -3,7 +3,7 @@ And without giving away yours us.
 
 ## Installation
 
-`npm install upload-folder-to-s3`
+`npm install upload-folder-s3`
 
 ## Usage
 
@@ -20,7 +20,7 @@ const s3Client = new S3Client({
   },
 });
 
-// Create an instance of the UploadFolderS3 class, we will only need to client, no credentials
+// Create an instance of the UploadFolderS3 class, we will only need client, no credentials
 const uploadClient = new UploadFolderS3(s3Client);
 
 // Upload folder to S3
