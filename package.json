@@ -1,0 +1,28 @@
+{
+  "name": "upload-folder-s3",
+  "version": "1.0.0",
+  "description": "upload a folder to s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "upload",
+    "folder",
+    "s3"
+  ],
+  "author": "ubaidmanzoor12@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.567.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ubaid-Manzoor/folder-upload-s3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ubaid-Manzoor/folder-upload-s3/issues"
+  },
+  "homepage": "https://github.com/Ubaid-Manzoor/folder-upload-s3#readme"
+}
